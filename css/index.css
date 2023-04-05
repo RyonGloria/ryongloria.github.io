@@ -5665,12 +5665,6 @@ h1.page-title + .tag-cloud-list {
 #vcomment textarea:focus {
   background-image: none;
 }
-#waline-wrap textarea {
-  background: url("/img/comment_bg.png") 100% 100% no-repeat;
-}
-#waline-wrap textarea:focus {
-  background-image: none;
-}
 .fireworks {
   position: fixed;
   top: 0;
@@ -10358,7 +10352,7 @@ html.hide-aside .layout > div:first-child {
 }
 
 #aside-content .card-widget#card-wechat {
-  background: #57bd6a;
+  background: #94bdbf;
   display: flex;
   justify-content: center;
   align-content: center;
@@ -10969,7 +10963,7 @@ body:has(.post-bg) #he-plugin-simple .s-sticker div {
   font-size: 0 !important;
 }
 .wv-lt-refresh a::after {
-  content: "安知鱼和风";
+  content: "Ryon和Gloria的小站";
   font-size: small !important;
 }
 .vw-f-cell a,
