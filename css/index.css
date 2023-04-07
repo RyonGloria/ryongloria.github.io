@@ -8965,8 +8965,12 @@ body[data-type="about"] #web_bg {
   align-items: flex-start;
   flex-direction: column;
   justify-content: center;
+  background: url(https://figure-save.oss-cn-nanjing.aliyuncs.com/2023/04/07/%E5%BA%A7%E5%8F%B3%E9%93%AD.jpg);
+  background-size: cover;
   width: 39%;
 }
+
+
 .author-content-item .author-content-item-tips {
   opacity: 0.8;
   font-size: 0.6rem;
